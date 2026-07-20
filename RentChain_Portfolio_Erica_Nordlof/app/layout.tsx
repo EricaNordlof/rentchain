@@ -28,7 +28,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <strong>RentChain</strong>
             <p>Independent portfolio project · Full-stack + Solidity + security-minded architecture.</p>
           </div>
-          <span>Built to demonstrate applied engineering, not to represent completed formal blockchain studies.</span>
+          <span>Independent portfolio project demonstrating applied full-stack, blockchain and security engineering.</span>
         </footer>
       </body>
     </html>
